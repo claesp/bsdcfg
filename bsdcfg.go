@@ -1,0 +1,5 @@
+package bsdcfg
+
+import (
+	"fmt"
+)

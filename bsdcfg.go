@@ -1,5 +1,10 @@
 package bsdcfg
 
 import (
-	"fmt"
+	"log"
 )
+
+func Load(file string) string {
+	log.Println("loading file")
+	return "done"
+}
